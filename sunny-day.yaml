@@ -1,5 +1,5 @@
-train: /kaggle/input/dataset/Train/Sunny/Day # Absolute path for training images
-val: /kaggle/input/dataset/Val/Sunny/Day
+train: /kaggle/input/yolo-dataset/Train/Sunny/Day # Absolute path for training images
+val: /kaggle/input/yolo-dataset/Val/Sunny/Day
 
 nc: 13  # Number of classes in your dataset
 names: [
